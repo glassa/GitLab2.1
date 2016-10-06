@@ -13,6 +13,6 @@ public class TonyUpdate extends AppCompatActivity {
 
     //random method to commit
     public void doSomething() {
-        
+
     }
 }
