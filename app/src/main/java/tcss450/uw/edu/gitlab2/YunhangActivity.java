@@ -10,5 +10,6 @@ public class YunhangActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_yunhang);
         //Alex made a change here, as per instructions.
+        //The lab says to change an activity, so i did.
     }
 }
