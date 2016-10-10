@@ -9,5 +9,6 @@ public class YunhangActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_yunhang);
+        //Alex made a change here, as per instructions.
     }
 }
